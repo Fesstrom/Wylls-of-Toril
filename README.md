@@ -1,3 +1,5 @@
+# Wylls of Toril
+
 Finished up my first BG3 head for a fresh take on Wyll's head.
 Threw in two styles – one inspired by Shining South and another rocking the standard Baldurian vibe. Planning on whipping up more later.
 Shining South hair won't be clip through horns now too (thanks Padme4000 for hair tutorial)
@@ -11,7 +13,7 @@ Preview and portraits use CharmaineCC's Wyll's True Bloodstone Eye; must get sep
 
 Will move onto Karaturan next!
 
-**Paypal**
+## Paypal
 
 Feeling generous?
 
