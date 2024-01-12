@@ -15,6 +15,4 @@ Will move onto Karaturan next!
 
 ## Paypal
 
-Feeling generous?
-
 [<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
