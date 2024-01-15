@@ -2,7 +2,7 @@
 **This mod's got put in review here, but I'll keep the updates coming while Nexus makes up their mind.**
 
 I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
-![](./images/ApLogo2.jpg | width=200)
+![](./images/ApLogo2.jpg)
 
 ## Paypal
 
