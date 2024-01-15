@@ -6,4 +6,4 @@ I switched out Wyll with a fresh and diverse set of options to celebrate my firs
 
 ## Paypal
 
-[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU | width=400)
+[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
