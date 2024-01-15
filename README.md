@@ -1,17 +1,8 @@
 # Wylls of Toril
+**This mod's got put in review here, but I'll keep the updates coming while Nexus makes up their mind.**
 
-Finished up my first BG3 head for a fresh take on Wyll's head.
-Threw in two styles – one inspired by Shining South and another rocking the standard Baldurian vibe. Planning on whipping up more later.
-Shining South hair won't be clip through horns now too (thanks Padme4000 for hair tutorial)
-New camp outfit!
-
-Preview and portraits use CharmaineCC's Wyll's True Bloodstone Eye; must get separate if wanting it.
-
-- Added Calimshan variant
-- Added Chult variant
-- Added Neverwinter variant
-
-Will move onto Karaturan next!
+I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
+![plot](./images/ApLogo2.jpg)
 
 ## Paypal
 
