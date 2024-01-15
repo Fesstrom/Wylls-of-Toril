@@ -3,7 +3,7 @@
 
 I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
 
-<img src="./images/ApLogo2.jpg" width="600">
+<img src="./images/ApLogo2.jpg" width="800">
 
 ## Version 1.1
 Reordered file structure for all the Wylls and added Scar/Beard removal option.
