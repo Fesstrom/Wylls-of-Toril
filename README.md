@@ -5,6 +5,9 @@ I switched out Wyll with a fresh and diverse set of options to celebrate my firs
 
 <img src="./images/ApLogo2.jpg" width="600">
 
+## Version 1.1
+Reordered file structure for all the Wylls and added Scar/Beard removal option.
+
 ## Paypal
 
 [<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
