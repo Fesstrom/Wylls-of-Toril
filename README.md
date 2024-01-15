@@ -1,5 +1,5 @@
 # Wylls of Toril
-**This mod's got put in review here, but I'll keep the updates coming while Nexus make up their mind.**
+**This mod's got put in review, but I'll keep the updates coming while Nexus make up their mind.**
 
 I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
 
