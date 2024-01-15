@@ -3,7 +3,7 @@
 
 I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
 
-<img src="./images/ApLogo2.jpg" width="400">
+<img src="./images/ApLogo2.jpg" width="600">
 
 ## Paypal
 
