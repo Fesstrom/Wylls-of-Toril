@@ -1,9 +1,11 @@
 # Wylls of Toril
 **This mod's got put in review, but I'll keep the updates coming while Nexus make up their mind.**
+If you have a request feel free to PM me on nexus (user: Fesstrom) or write your request in the [Discussions tab](https://github.com/Fesstrom/Wylls-of-Toril/discussions)
 
-I switched out Wyll with a fresh and diverse set of options to celebrate my first successful Blender attempt!
+Here is a fresh and diverse set of options for Wyll to celebrate my first successful Blender attempt!
 
 <img src="./images/ApLogo2.jpg" width="800">
+
 
 ## Version 1.1
 Reordered file structure for all the Wylls and added Scar/Beard removal option.
