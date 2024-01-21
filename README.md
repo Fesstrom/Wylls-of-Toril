@@ -14,7 +14,10 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 
 <img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/portrait.jpg">
 
-## Request List
+## Main Files
+https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/v2.0
+
+## Optional Files
 
 
 ## Paypal
