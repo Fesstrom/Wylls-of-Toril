@@ -6,6 +6,10 @@ If you have a request feel free to PM me on nexus (user: Fesstrom) or write your
 This mod gives you a diverse set of options for Wyll for your next playthroughs.
 <img src="./images/ApLogo2.jpg" width="800">
 
+## Paypal
+
+[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
+
 ## What's New?
 
 ### Ravengard
@@ -20,6 +24,7 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
  - If you are using the standard curly hair, I have blendered it so it won't clip through his horns and tiefling ears.
 
 ### Cosmetics addons
+
 Options available for:
 - Hair color
 - Hair style 
@@ -27,16 +32,8 @@ Options available for:
 - Remove removal
 
 ## Downloads
+
 **Main files:** https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Main_Files
 
 **Optional files:** https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Optional_Files
 
-
-
-
-
-
-
-## Paypal
-
-[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
