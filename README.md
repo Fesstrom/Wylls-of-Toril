@@ -1,6 +1,6 @@
 # Wylls of Toril
 **This mod's got put in review, but I'll keep the updates coming while Nexus make up their mind.**
-If you have a request feel free to PM me on nexus (user: Fesstrom) or write your request in the [Discussions tab](https://github.com/Fesstrom/Wylls-of-Toril/discussions/1)
+If you have a request feel free to PM me on nexus (user: Fesstrom) or write your request in the [Discussions tab](https://github.com/Fesstrom/Wylls-of-Toril/discussions)
 
 Here is a fresh and diverse set of options for Wyll to celebrate my first successful Blender attempt!
 
