@@ -1,19 +1,40 @@
 # Wylls of Toril
-**This mod's got put in review, but I'll keep the updates coming while Nexus make up their mind.**
+
+**This mod got put in review on nexus mods, but I'll keep the updates coming while they make up their mind.**
 If you have a request feel free to PM me on nexus (user: Fesstrom) or write your request in the [Discussions tab](https://github.com/Fesstrom/Wylls-of-Toril/discussions)
 
-A diverse set of options for Wylls for your next playthrough.
+This mod gives you a diverse set of options for Wyll for your next playthroughs.
 <img src="./images/ApLogo2.jpg" width="800">
 
-## Version 2.0
+## What's New?
+
+### Ravengard
+
 I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching Ravengard.
+<img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/promo_ravengard.jpg" width="500">
 
-<img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/promo_ravengard.jpg" width="600">
+### Contractor Devil Form
 
-## Main Files
-https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Main_Files
+ - Wyll now looks more like a tiefling: 
+   Tail, teeth, claws, Tiefling ears, body and markings.
+ - If you are using the standard curly hair, I have blendered it so it won't clip through his horns and tiefling ears.
 
-## Optional Files
+### Contractor Devil Form
+
+- Hair color addon
+- Hair style addon
+- Eye color addon
+- Remove scar addon
+
+## Downloads
+**Main files:** https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Main_Files
+
+**Optional files:** https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Optional_Files
+
+
+
+
+
 
 
 ## Paypal
