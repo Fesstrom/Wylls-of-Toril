@@ -19,7 +19,7 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 <img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/promo_ravengard.jpg" width="450">
 
 ### Contractor Devil Form
- - Wyll now looks more like a tiefling: 
+ - Wyll's got all every tiefling feature: 
    Tail, teeth, claws, Tiefling ears, body and markings.
  - If you are using the standard curly hair, I have blendered it so it won't clip through his horns and tiefling ears.
 
@@ -34,7 +34,8 @@ Options available for:
 - Hair color
 - Hair style 
 - Eye color
-- Remove removal
+- Remove all scars
+- Remove Beard
 
 ## Downloads
 
