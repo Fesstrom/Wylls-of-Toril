@@ -10,10 +10,6 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 
 <img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/promo_ravengard.jpg" width="600">
 
-**Added matching portraits for Ravengard**
-
-<img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/portrait.jpg">
-
 ## Main Files
 https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Main_Files
 
