@@ -34,7 +34,7 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 <img src="https://github.com/Fesstrom/Wylls-of-Toril/assets/156459704/d7ab2ed9-5ad1-4864-aae4-e9457719d095" width="500" margin-bottom="margin="10px 10px 10px 10px"" >
 
 
-Options available for:
+#### Options available for:
 - Hair color
 - Hair style 
 - Eye color
