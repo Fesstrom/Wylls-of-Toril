@@ -31,7 +31,7 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 ### Cosmetics addons
 
 <img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/OptionalMods_preview1.jpg"  width="300" >
-<img src="https://github.com/Fesstrom/Wylls-of-Toril/assets/156459704/d7ab2ed9-5ad1-4864-aae4-e9457719d095" width="500">
+<img src="https://github.com/Fesstrom/Wylls-of-Toril/assets/156459704/d7ab2ed9-5ad1-4864-aae4-e9457719d095" width="500" margin="20px" >
 
 
 Options available for:
