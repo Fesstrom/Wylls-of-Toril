@@ -48,3 +48,5 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 
 **Optional files:** https://github.com/Fesstrom/Wylls-of-Toril/releases/tag/Optional_Files
 
+**True Bloodstone eye: https://www.nexusmods.com/baldursgate3/mods/5636** 
+
