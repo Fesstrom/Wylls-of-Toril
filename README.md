@@ -25,7 +25,7 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
    Tail, teeth, claws, Tiefling ears, body and markings.
  - If you are using the standard curly hair, I have blendered it so it won't clip through his horns and tiefling ears.
 
-<img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/contractor_devil_preview.jpg" width="400" margin-top="10px">
+<img src="https://github.com/Fesstrom/Wylls-of-Toril/blob/main/images/contractor_devil_preview.jpg" width="400" margin="10px 10px 10px 10px">
 
 
 ### Cosmetics addons
