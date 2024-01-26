@@ -9,11 +9,11 @@ Wylls of Toril gives you a diverse set of options for Wyll for your next playthr
 
 <img src="./images/ApLogo2.jpg" width="500">
 
-## Paypal
-
-[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
 
 ## What's New?
+### Main Files Version 2.1
+* Fixed Wylls stubble and a texture bug.
+
 
 ### Ravengard
 
@@ -50,3 +50,6 @@ I've given Calimsham, Karatur, Laothan, Neverwinter & Shining South a matching R
 
 **True Bloodstone eye: https://www.nexusmods.com/baldursgate3/mods/5636** 
 
+## Paypal
+
+[<img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=NVQCSZ8KVJFFU)
