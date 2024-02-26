@@ -2,7 +2,7 @@
 
 ## Summary
 
-**This mod got put in review on nexus mods, and probably because they can't find an issue with it they accused me of being an alt of someone that I'm not.**
+**This mod got put in review on nexus mods, and then banned me :(**
 If you have a request feel free to write your request in the [Discussions tab](https://github.com/Fesstrom/Wylls-of-Toril/discussions)
 
 Wylls of Toril gives you a diverse set of options for Wyll for your next playthroughs.
